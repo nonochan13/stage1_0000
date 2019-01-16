@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 17d2efa7a960a5c4d9043d729a592aa8
+timeCreated: 1537623455
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ShrubShort_03__21_
+    100004: ShrubShort_03__22_
+    100006: ShrubShort_03__23_
+    100008: ShrubShort_03__24_
+    100010: ShrubShort_03__25_
+    100012: ShrubShort_03__26_
+    100014: ShrubShort_03__27_
+    100016: ShrubShort_03__28_
+    100018: ShrubShort_03__29_
+    100020: ShrubShort_03__30_
+    100022: une1__10_
+    100024: une1__11_
+    100026: une1__8_
+    100028: une1__9_
+    100030: node_id10
+    100032: node_id12
+    100034: node_id14
+    100036: node_id16
+    100038: node_id18
+    100040: node_id20
+    100042: node_id22
+    100044: node_id24
+    100046: node_id26
+    100048: node_id28
+    100050: node_id30
+    100052: node_id32
+    100054: node_id4
+    100056: node_id6
+    100058: node_id8
+    400000: //RootNode
+    400002: ShrubShort_03__21_
+    400004: ShrubShort_03__22_
+    400006: ShrubShort_03__23_
+    400008: ShrubShort_03__24_
+    400010: ShrubShort_03__25_
+    400012: ShrubShort_03__26_
+    400014: ShrubShort_03__27_
+    400016: ShrubShort_03__28_
+    400018: ShrubShort_03__29_
+    400020: ShrubShort_03__30_
+    400022: une1__10_
+    400024: une1__11_
+    400026: une1__8_
+    400028: une1__9_
+    400030: node_id10
+    400032: node_id12
+    400034: node_id14
+    400036: node_id16
+    400038: node_id18
+    400040: node_id20
+    400042: node_id22
+    400044: node_id24
+    400046: node_id26
+    400048: node_id28
+    400050: node_id30
+    400052: node_id32
+    400054: node_id4
+    400056: node_id6
+    400058: node_id8
+    2100000: TreeColors_A
+    2100002: TerrainTile_Dirt_B
+    2100004: Material_43
+    2100006: Material_44
+    2100008: Material_45
+    2100010: Material_46
+    2100012: Material_47
+    2100014: Material_48
+    2100016: Material_49
+    2100018: Material_87
+    2100020: Material_51
+    2100022: Material_52
+    2100024: Material_53
+    2100026: Material_54
+    2100028: Material_55
+    2100030: Material_56
+    2300000: ShrubShort_03__21_
+    2300002: ShrubShort_03__22_
+    2300004: ShrubShort_03__23_
+    2300006: ShrubShort_03__24_
+    2300008: ShrubShort_03__25_
+    2300010: ShrubShort_03__26_
+    2300012: ShrubShort_03__27_
+    2300014: ShrubShort_03__28_
+    2300016: ShrubShort_03__29_
+    2300018: ShrubShort_03__30_
+    2300020: une1__10_
+    2300022: une1__11_
+    2300024: une1__8_
+    2300026: une1__9_
+    2300028: node_id10
+    2300030: node_id12
+    2300032: node_id14
+    2300034: node_id16
+    2300036: node_id18
+    2300038: node_id20
+    2300040: node_id22
+    2300042: node_id24
+    2300044: node_id26
+    2300046: node_id28
+    2300048: node_id30
+    2300050: node_id4
+    2300052: node_id6
+    2300054: node_id8
+    3300000: ShrubShort_03__21_
+    3300002: ShrubShort_03__22_
+    3300004: ShrubShort_03__23_
+    3300006: ShrubShort_03__24_
+    3300008: ShrubShort_03__25_
+    3300010: ShrubShort_03__26_
+    3300012: ShrubShort_03__27_
+    3300014: ShrubShort_03__28_
+    3300016: ShrubShort_03__29_
+    3300018: ShrubShort_03__30_
+    3300020: une1__10_
+    3300022: une1__11_
+    3300024: une1__8_
+    3300026: une1__9_
+    3300028: node_id10
+    3300030: node_id12
+    3300032: node_id14
+    3300034: node_id16
+    3300036: node_id18
+    3300038: node_id20
+    3300040: node_id22
+    3300042: node_id24
+    3300044: node_id26
+    3300046: node_id28
+    3300048: node_id30
+    3300050: node_id4
+    3300052: node_id6
+    3300054: node_id8
+    4300000: ShrubShort_03__25_
+    4300002: ShrubShort_03__24_
+    4300004: ShrubShort_03__28_
+    4300006: ShrubShort_03__26_
+    4300008: une1__11_
+    4300010: ShrubShort_03__29_
+    4300012: ShrubShort_03__21_
+    4300014: une1__8_
+    4300016: une1__10_
+    4300018: une1__9_
+    4300020: ShrubShort_03__22_
+    4300022: ShrubShort_03__23_
+    4300024: ShrubShort_03__30_
+    4300026: ShrubShort_03__27_
+    4300028: node_id4
+    4300030: node_id6
+    4300032: node_id8
+    4300034: node_id10
+    4300036: node_id12
+    4300038: node_id14
+    4300040: node_id16
+    4300042: node_id18
+    4300044: node_id20
+    4300046: node_id22
+    4300048: node_id24
+    4300050: node_id26
+    4300052: node_id28
+    4300054: node_id30
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
